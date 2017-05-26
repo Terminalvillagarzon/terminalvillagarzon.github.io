@@ -1,0 +1,58 @@
+/*--
+author: Corporación HorMinka
+author URL: http://www.horminka.org
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+
+.header img {
+  height: 200px;
+  padding: 20px;
+}
+
+.imagen-terminal {
+  /*margin-top: 200px;*/
+	background: url(../imagenes/baner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+  min-height: 600px;
+  padding: 3em 0;
+}
+
+.numeros {
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+}
+
+.numeros h1 {
+  text-align: center;
+  padding: 30px;
+  color: #308937;
+}
+
+.numeros h3 {
+  margin-bottom: 0;
+}
+
+.numeros a {
+  color: #3C60A9;
+  font-size: 1.2em;
+}
+
+.footer {
+  font-family: 'Bree Serif', serif;
+  width: 98%;
+  border-top: 1px solid #3C60A9;
+  padding-top: 20px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.footer a {
+  color: #3C60A9;
+}
